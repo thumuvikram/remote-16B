@@ -1,0 +1,7 @@
+Q. How to identify the repo which is clone or remote origin ??
+
+        # git remote -v
+
+        or
+        
+        # git config --list
